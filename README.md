@@ -1,3 +1,3 @@
 ### react-state-exercise
-practicing state in a class based component
+practicing state in a class based component.
 Created with CodeSandbox
